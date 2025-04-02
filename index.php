@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Dynamic Website</title>
     <link rel="stylesheet" href="css/style.css"/>
+
 </head>
 <body>
     <header class="main">
@@ -81,7 +82,7 @@
             <h1>Contact Us</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
-        <form action="userinformation.php" method="post">
+        <form action="submit.php" method="post">
             <input type="text" name="user" placeholder="Your Full Name"/>
             <input type="email" name="email" placeholder="Your E-Mail"/>
             <textarea name="message" placeholder="Type Your Message Here.........."></textarea>
@@ -90,3 +91,4 @@
     </footer>
 </body>
 </html>
+
