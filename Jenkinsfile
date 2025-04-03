@@ -16,7 +16,7 @@ pipeline {
 
         stage('Deploy to Apache Server') {
             steps {
-                sshagent(['your-ssh-credential-id']) {
+                sshagent(['ssh-key-ubuntu']) {
                     sh '''
                     ssh -o StrictHostKeyChecking=no ubuntu@34.205.71.219 <<EOF
                     cd /var/www/html
