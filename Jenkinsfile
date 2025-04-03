@@ -19,7 +19,7 @@ pipeline {
                 sshagent(['ssh-key-ubuntu']) {
                     sh '''
                     ssh -o StrictHostKeyChecking=no ubuntu@34.205.71.219 <<EOF
-                    cd /var/www/html/ci-cd-pipeline
+                    cd /var/www/html
                     git pull origin main
                     sudo systemctl restart apache2
                     EOF
