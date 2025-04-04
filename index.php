@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Dynamic Website nahi hai </title>
+    <title>PHP Dynamic Website</title>
     <link rel="stylesheet" href="css/style.css"/>
 
 </head>
@@ -22,7 +22,7 @@
             </ul>
         </nav>
         <div class="main-heading">
-            <h1>Create Prespectives With Virtual Realityyyyyyyyyyy</h1>
+            <h1>Create Prespectives With Virtual Reality</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint provident consectetur ducimus. Blanditiis, culpa!</p>
             <a class="main-btn" href="#">Contact</a>
         </div>
