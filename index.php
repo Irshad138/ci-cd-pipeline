@@ -22,7 +22,7 @@
             </ul>
         </nav>
         <div class="main-heading">
-            <h1>Create Prespectives With Virtual Reality</h1>
+            <h1>Create Prespectives With Virtual Realityyyyyyyyy</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint provident consectetur ducimus. Blanditiis, culpa!</p>
             <a class="main-btn" href="#">Contact</a>
         </div>
