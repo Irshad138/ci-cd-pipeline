@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP1 Dynamic Website</title>
+    <title>PHP3 Dynamic Website</title>
     <link rel="stylesheet" href="css/style.css"/>
 
 </head>
